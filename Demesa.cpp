@@ -10,7 +10,7 @@ int main()
    cout<<"Enter another number: ";//output enter another number 
    cin>>num2;//user input number2
    product=num1*num2;//set the value of product as number1 and number2
-   cout<<"The sum of the two number is: " <<product;//output product of numbers
+   cout<<"The product of the two number is: " <<product;//output product of numbers
  
     return 0;
 }
